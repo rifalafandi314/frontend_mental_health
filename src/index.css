@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Menambahkan warna background dasar yang lembut untuk seluruh web */
+body {
+  @apply bg-slate-50 text-slate-800;
+}
