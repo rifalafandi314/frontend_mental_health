@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Konfigurasi URL backend (FastAPI berjalan di port 8000)
-const API_URL = 'https://1917-182-9-33-229.ngrok-free.app';
+const API_URL = 'https://1929-182-9-33-229.ngrok-free.app';
 
 export const predictStressLevel = async (data) => {
   try {
